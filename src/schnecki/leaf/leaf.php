@@ -6,7 +6,7 @@ use pocketmine\event\Listener;
 use pocketmine\event\block\LeavesDecayEvent;
 use pocketmine\plugin\PluginBase;
 
-class leave extends PluginBase implements Listener {
+class leaf extends PluginBase implements Listener {
 
     public function onEnable():void {
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
