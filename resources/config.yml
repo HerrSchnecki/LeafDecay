@@ -1,0 +1,5 @@
+# List of worlds where leaf decay is allowed
+# In all other worlds, leaf decay will be prevented
+
+ignored-worlds:
+#  - world   # Uncomment to allow leaf decay in world
