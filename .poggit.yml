@@ -5,4 +5,5 @@ branches:
 projects:
   Leafdecay:
     path: ""
+    icon: 'icon.png'
 ...
