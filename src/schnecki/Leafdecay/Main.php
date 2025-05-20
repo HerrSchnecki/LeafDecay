@@ -1,6 +1,6 @@
 <?php
 
-namespace schnecki\Leafdecay;
+namespace Herrschnecki\Leafdecay;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
